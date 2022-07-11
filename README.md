@@ -1,7 +1,7 @@
 # Retina-explainability
 
 Repository of the UOC Sunai internship for retinal explainability.
-
+Link to the project report: https://www.overleaf.com/read/hvmdydxdbbvz
 
 ### Explainability techniques
 1. Occlusion
